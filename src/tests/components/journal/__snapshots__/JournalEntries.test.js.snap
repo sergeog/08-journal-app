@@ -1,0 +1,200 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <JournalEntries /> debe mostrarse correctamente 1`] = `
+<div
+  className="journal__entries"
+>
+  <div
+    className="journal__entry pointer animate__animated animate__fadeIn animate__faster"
+    onClick={[Function]}
+  >
+    <div
+      className="journal__entry-body"
+    >
+      <p
+        className="journal__entry-title"
+      >
+        Title de la Nota 1
+      </p>
+      <p
+        className="journal__entry-content"
+      >
+        Body de la Nota 1
+      </p>
+    </div>
+    <div
+      className="journal__entry-date-box"
+    >
+      <span>
+        Saturday
+      </span>
+      <h4>
+        19th
+      </h4>
+    </div>
+  </div>
+  <div
+    className="journal__entry pointer animate__animated animate__fadeIn animate__faster"
+    onClick={[Function]}
+  >
+    <div
+      className="journal__entry-picture"
+      style={
+        Object {
+          "backgroundImage": "url(https://res.cloudinary.com/dbeq1o9b1/image/upload/v1608408608/ce8qbbh5njfhkhboes0p.png)",
+          "backgroundSize": "cover",
+        }
+      }
+    />
+    <div
+      className="journal__entry-body"
+    >
+      <p
+        className="journal__entry-title"
+      >
+        Title de la Nota 2
+      </p>
+      <p
+        className="journal__entry-content"
+      >
+        Body de la Nota 2
+      </p>
+    </div>
+    <div
+      className="journal__entry-date-box"
+    >
+      <span>
+        Saturday
+      </span>
+      <h4>
+        12th
+      </h4>
+    </div>
+  </div>
+  <div
+    className="journal__entry pointer animate__animated animate__fadeIn animate__faster"
+    onClick={[Function]}
+  >
+    <div
+      className="journal__entry-picture"
+      style={
+        Object {
+          "backgroundImage": "url(https://res.cloudinary.com/dbeq1o9b1/image/upload/v1608416967/zasq87yoclsuss8sv0cz.png)",
+          "backgroundSize": "cover",
+        }
+      }
+    />
+    <div
+      className="journal__entry-body"
+    >
+      <p
+        className="journal__entry-title"
+      >
+        Title de la Nota 3
+      </p>
+      <p
+        className="journal__entry-content"
+      >
+        Body de la Nota 3
+      </p>
+    </div>
+    <div
+      className="journal__entry-date-box"
+    >
+      <span>
+        Saturday
+      </span>
+      <h4>
+        12th
+      </h4>
+    </div>
+  </div>
+  <div
+    className="journal__entry pointer animate__animated animate__fadeIn animate__faster"
+    onClick={[Function]}
+  >
+    <div
+      className="journal__entry-body"
+    >
+      <p
+        className="journal__entry-title"
+      >
+        Title de la Nota 4
+      </p>
+      <p
+        className="journal__entry-content"
+      >
+        Body de la Nota 4
+      </p>
+    </div>
+    <div
+      className="journal__entry-date-box"
+    >
+      <span>
+        Saturday
+      </span>
+      <h4>
+        12th
+      </h4>
+    </div>
+  </div>
+  <div
+    className="journal__entry pointer animate__animated animate__fadeIn animate__faster"
+    onClick={[Function]}
+  >
+    <div
+      className="journal__entry-body"
+    >
+      <p
+        className="journal__entry-title"
+      >
+        Title de la Nota 5
+      </p>
+      <p
+        className="journal__entry-content"
+      >
+        Body de la Nota 5
+      </p>
+    </div>
+    <div
+      className="journal__entry-date-box"
+    >
+      <span>
+        Saturday
+      </span>
+      <h4>
+        19th
+      </h4>
+    </div>
+  </div>
+  <div
+    className="journal__entry pointer animate__animated animate__fadeIn animate__faster"
+    onClick={[Function]}
+  >
+    <div
+      className="journal__entry-body"
+    >
+      <p
+        className="journal__entry-title"
+      >
+        Title de la Nota 6
+      </p>
+      <p
+        className="journal__entry-content"
+      >
+        Body de la Nota 6
+      </p>
+    </div>
+    <div
+      className="journal__entry-date-box"
+    >
+      <span>
+        Sunday
+      </span>
+      <h4>
+        13th
+      </h4>
+    </div>
+  </div>
+</div>
+`;
